@@ -1,5 +1,6 @@
 import { useState } from "react";
 import styled from "styled-components";
+import Nav from "./Nav";
 
 const StyledDiv = styled.div`
   background-color: grey;
@@ -13,19 +14,7 @@ function App() {
 
   return (
     <div className="App">
-      <StyledDiv className="Header">
-        <h4>여기는 헤더</h4>
-        <div className="Navbar">
-          <nav>
-            여기는 네브바!
-            <ul>
-              <li>About</li>
-              <li>Shop</li>
-              <li>Contact</li>
-            </ul>
-          </nav>
-        </div>
-      </StyledDiv>
+      <Nav/>
       <div className="Contents">
         <h4>{글제목[0]}</h4>
         <p>진짜 이쁜 코트</p>
