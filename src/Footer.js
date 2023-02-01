@@ -12,9 +12,6 @@ function Footer() {
       <div className="footer-item">
         Github
       </div>
-      <div className="footer-item">
-        Blog
-      </div>
     </div>
   );
 }
