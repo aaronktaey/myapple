@@ -1,6 +1,7 @@
 import Nav from "./Nav";
 import About from "./About";
 import Contents from "./Contents";
+import Footer from "./Footer";
 
 
 
@@ -11,7 +12,7 @@ function App() {
       <Nav/>
       <About/>
       <Contents/>
-      {/* Contacts */}
+      <Footer/>
     </div>
   );
 }
