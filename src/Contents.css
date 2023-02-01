@@ -1,0 +1,17 @@
+.contents-container{
+  padding-top: 50px;
+  width: 100%;
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap-reverse;
+  justify-content: space-around;
+  align-content: stretch;
+}
+
+.contents-item{
+  border: solid;
+  margin: 20px;
+  height: 25rem;
+  width: 30%;
+  text-align: center;
+}
