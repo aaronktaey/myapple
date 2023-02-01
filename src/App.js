@@ -1,4 +1,5 @@
 import Nav from "./Nav";
+import About from "./About";
 
 
 
@@ -7,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <Nav/>
-      {/* About */}
+      <About/>
       {/* Contents */}
       {/* Contacts */}
     </div>
