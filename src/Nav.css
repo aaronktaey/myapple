@@ -1,9 +1,9 @@
 .Navs{
   position: fixed;
   top: 0;
-  height: 50px;
   width: 100%;
   z-index: 999;
+  display:contents
 }
 
 ul {
@@ -13,8 +13,7 @@ ul {
     overflow: hidden;
     background-color: #333;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-evenly;
     height: 100%;
   }
   

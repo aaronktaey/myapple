@@ -1,5 +1,4 @@
 .contents-container{
-  padding-top: 50px;
   width: 100%;
   display: flex;
   flex-direction: row-reverse;
@@ -10,6 +9,8 @@
 
 .contents-item{
   border: solid;
+  border-radius: 1cm;
+  border-color: deepskyblue;
   margin: 20px;
   height: 25rem;
   width: 30%;
