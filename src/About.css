@@ -1,12 +1,12 @@
-.flex-container{
-  padding-top: 49.6px;
+.about-container{
+  padding-top: 50px;
   width: 100%;
   display: flex;
   flex-direction: column;
 }
 
-.flex-item{
-  border: solid;
+.about-item{
+  border-bottom: solid;
   height: 10rem;
   width: 100%;
   text-align: center;
