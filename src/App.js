@@ -17,7 +17,7 @@ function App() {
         <h4>여기는 헤더</h4>
         <div className="Navbar">
           <nav>
-            여기는 네브바
+            여기는 네브바!
             <ul>
               <li>About</li>
               <li>Shop</li>
