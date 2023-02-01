@@ -1,5 +1,6 @@
 import Nav from "./Nav";
 import About from "./About";
+import Contents from "./Contents";
 
 
 
@@ -9,7 +10,7 @@ function App() {
     <div className="App">
       <Nav/>
       <About/>
-      {/* Contents */}
+      <Contents/>
       {/* Contacts */}
     </div>
   );
