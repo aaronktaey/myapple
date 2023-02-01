@@ -1,0 +1,14 @@
+.footer-container{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content:space-around ;
+  align-content: stretch;
+  background-color: rgb(240, 240, 240);
+}
+
+.footer-item{
+  margin: 20px;
+  text-align: left;
+}
