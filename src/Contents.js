@@ -4,19 +4,19 @@ function Contents() {
   return (
     <div id="contents" className="contents-container">
       <div className="contents-item">
-        상품1
+        게시글1
       </div>
       <div className="contents-item">
-        상품2
+        게시글2
       </div>
       <div className="contents-item">
-        상품3
+        게시글3
       </div>
       <div className="contents-item">
-        상품4
+        게시글4
       </div>
       <div className="contents-item">
-        상품5
+        게시글5
       </div>
     </div>
   );
