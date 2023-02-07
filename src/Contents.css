@@ -1,4 +1,5 @@
 .contents-container{
+  background-color: rgba(185, 185, 185, 0.61);
   padding-top: 70px;
   width: 100%;
   display: flex;
@@ -9,9 +10,9 @@
 }
 
 .contents-item{
-  border: solid rgb(158, 210, 255);
+  border: solid rgb(255, 255, 255);
   border-radius: 1cm;
-  background-color:aliceblue;
+  background-color:rgb(240, 240, 240);
   margin-top: 10px;
   margin-bottom: 10px;
   height: 300px;
@@ -22,6 +23,6 @@
 }
 .contents-item:hover {
   flex-grow: 0.05;
-  background-color: rgb(158, 210, 255);
+  background-color: rgb(255, 255, 255);
   box-shadow: 10px 5px 5px rgb(168, 168, 168);
 }
