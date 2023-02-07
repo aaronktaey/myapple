@@ -19,7 +19,6 @@
   width: 25%;
   text-align: center;
   transition: all 300ms ease-in-out;
-
 }
 .contents-item:hover {
   flex-grow: 0.05;
